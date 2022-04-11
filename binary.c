@@ -1,4 +1,4 @@
-//binary
+//linear  search
 /*
 #include <stdio.h>
 int main()
@@ -29,13 +29,13 @@ int main()
     }
     if(i<n)
         printf("\nelement found to the index %d",i);
-
+r
     else
         printf("\nnot found");
 }
 */
 
-//linear
+//Binary Search
 /*
 #include <stdio.h>
 int main()
